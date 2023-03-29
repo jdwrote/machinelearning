@@ -4,6 +4,9 @@ This fold contains sample codes implemented in python on content and assignments
 
 3/28
 - Add an assigment using both Tensorflow and Numpy to build out a model and predict 0/1 from the image
+- File name: Coursera_ML_C2_W1_assingment.py
+- Support file autils.py 
+- DataSet: data folder
 
 
 3/26 Update: 
