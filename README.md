@@ -2,6 +2,10 @@
 
 This fold contains sample codes implemented in python on content and assignments from the Coursera for the completion of the ML certification.
 
+3/28
+- Add an assigment using both Tensorflow and Numpy to build out a model and predict 0/1 from the image
+
+
 3/26 Update: 
 
 Tests to complete to obtain Maching Learning Cerification: 
