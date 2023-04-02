@@ -4,7 +4,7 @@ Hello there!
 I am not a developer and my goal is to understand ML and become a ML Product Manager. 
 
 This fold contains codes implemented in python on assignments from the Coursera for the completion of the ML certification. 
-1) Majority of codes within each assignment file are from Coursera (e.g., plot, library setup, data) except those designed to test key learning points.
+1) Majority of codes within each assignment file are from Coursera (e.g., plot, library setup, data) except those designed to test key learning points, denoted by "Start Code Here" to "End Code Here" in the comment.
 2) I also have to update codes so that they could be run in python as Coursera's content is all on Jupyter. 
 
 Thank you!
