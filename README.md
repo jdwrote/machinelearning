@@ -1,6 +1,8 @@
 # machinelearning
 
-This fold contains sample codes implemented in python on content and assignments from the Coursera for the completion of the ML certification. Majority of the codes are from Coursera (e.g., plot, library setup, data) except those designed to test key learning points.  
+This fold contains codes implemented in python on content and assignments from the Coursera for the completion of the ML certification. 
+1) Majority of the codes are from Coursera (e.g., plot, library setup, data) except those designed to test key learning points.
+2) I have to update the codes to python as Coursera's is based on Jupyter  
 
 3/28
 - Add an assigment using both Tensorflow and Numpy to build out a model and predict 0/1 from the image
