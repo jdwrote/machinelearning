@@ -1,16 +1,21 @@
 # machinelearning
 
-Hello there! 
-I am not a developer. My goal is to understand ML and become a ML Product Manager. 
+Hello and welcome!
 
-This fold contains codes implemented in python on assignments from the Coursera for the completion of the ML certification. 
+This is Jia Dong, and I am not a developer. My goal is to gain an understanding of machine learning (ML) and explore how ML/AI can be utilized to enhance business operations in terms of speed and efficiency.
 
-1) Majority of codes within each assignment file are from Coursera (e.g., plot, library setup, data) except those designed to test key learning points, denoted by "Start Code Here" to "End Code Here" in the comment.
+Before we proceed, here's a bit of background information:
 
-2) I also have to update codes so that they could be run in python as Coursera's content is all on Jupyter. 
+This folder contains Python code that has been implemented for assignments as part of my ML certification on Coursera.
 
-Thank you!
-JD
+A. The majority of the code within each assignment file has been provided by Coursera, including the plots, library setups, and data. However, there are sections programmed by me and denoted by comments from "Start Code Here" to "End Code Here" that have been designed to test key learning points.
+
+B. The code has been updated by me to ensure it can be executed in a Python environment, as Coursera's content is primarily presented in Jupyter notebooks.
+
+If you have any questions or need further clarification, please let me know: jia.dong@alumni.usc.edu
+
+Best,
+Jia Dong
 
 ---------------------------------------------------------------
 ---LOG---------------------------------------------------------
