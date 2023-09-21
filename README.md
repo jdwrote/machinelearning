@@ -2,15 +2,15 @@
 
 Hello and welcome!
 
-This is Jia Dong, and I am not a developer. My goal is to gain an understanding of machine learning (ML) and explore how ML/AI can be utilized to enhance business operations in terms of speed and efficiency.
+This is Jia Dong, and I am not a developer. I am PM and my goal is to gain an understanding of machine learning (ML) and explore how ML/AI can be utilized to enhance business operations in terms of speed,efficiency, quality and scale.
 
-Before we proceed, here's a bit of background information:
+Before we proceed, here's a bit background:
 
-This folder contains Python code that has been implemented for assignments as part of my ML certification on Coursera.
+This folder contains Python codes that have been implemented for assignments as part of my ML Coursera certification.
 
-A. The majority of the code within each assignment file has been provided by Coursera, including the plots, library setups, and data. However, there are sections programmed by me and denoted by comments from "Start Code Here" to "End Code Here" that have been designed to test key learning points.
+A. The majority of the code within each assignment file has been provided by Coursera, including plots, library setups, and data. However, there are sections programmed by me, denoted by comments from "Start Code Here" to "End Code Here".
 
-B. The code has been updated by me to ensure it can be executed in a Python environment, as Coursera's content is primarily presented in Jupyter notebooks.
+B. The code has been updated by me to ensure it can be executed in a Python environment, as Coursera's content is presented in Jupyter notebooks.
 
 If you have any questions or need further clarification, please let me know: jia.dong@alumni.usc.edu
 
